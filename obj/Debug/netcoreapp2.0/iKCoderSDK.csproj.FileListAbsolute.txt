@@ -1,0 +1,9 @@
+C:\iKCoder\iKCoder.CoreAPI\SourceCode\iKCoderCore\Sdk\iKCoderSDK\bin\Debug\netcoreapp2.0\iKCoderSDK.deps.json
+C:\iKCoder\iKCoder.CoreAPI\SourceCode\iKCoderCore\Sdk\iKCoderSDK\bin\Debug\netcoreapp2.0\iKCoderSDK.dll
+C:\iKCoder\iKCoder.CoreAPI\SourceCode\iKCoderCore\Sdk\iKCoderSDK\bin\Debug\netcoreapp2.0\iKCoderSDK.pdb
+C:\iKCoder\iKCoder.CoreAPI\SourceCode\iKCoderCore\Sdk\iKCoderSDK\obj\Debug\netcoreapp2.0\iKCoderSDK.csproj.CoreCompileInputs.cache
+C:\iKCoder\iKCoder.CoreAPI\SourceCode\iKCoderCore\Sdk\iKCoderSDK\obj\Debug\netcoreapp2.0\iKCoderSDK.AssemblyInfoInputs.cache
+C:\iKCoder\iKCoder.CoreAPI\SourceCode\iKCoderCore\Sdk\iKCoderSDK\obj\Debug\netcoreapp2.0\iKCoderSDK.AssemblyInfo.cs
+C:\iKCoder\iKCoder.CoreAPI\SourceCode\iKCoderCore\Sdk\iKCoderSDK\obj\Debug\netcoreapp2.0\iKCoderSDK.dll
+C:\iKCoder\iKCoder.CoreAPI\SourceCode\iKCoderCore\Sdk\iKCoderSDK\obj\Debug\netcoreapp2.0\iKCoderSDK.pdb
+C:\iKCoder\iKCoder.CoreAPI\SourceCode\iKCoderCore\Sdk\iKCoderSDK\obj\Debug\netcoreapp2.0\iKCoderSDK.csprojAssemblyReference.cache

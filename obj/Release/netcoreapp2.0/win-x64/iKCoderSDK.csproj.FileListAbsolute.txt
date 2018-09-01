@@ -1,0 +1,9 @@
+C:\iKCoder\iKCoder.CoreSDK\bin\Release\netcoreapp2.0\win-x64\iKCoderSDK.deps.json
+C:\iKCoder\iKCoder.CoreSDK\bin\Release\netcoreapp2.0\win-x64\iKCoderSDK.dll
+C:\iKCoder\iKCoder.CoreSDK\bin\Release\netcoreapp2.0\win-x64\iKCoderSDK.pdb
+C:\iKCoder\iKCoder.CoreSDK\obj\Release\netcoreapp2.0\win-x64\iKCoderSDK.csproj.CoreCompileInputs.cache
+C:\iKCoder\iKCoder.CoreSDK\obj\Release\netcoreapp2.0\win-x64\iKCoderSDK.AssemblyInfoInputs.cache
+C:\iKCoder\iKCoder.CoreSDK\obj\Release\netcoreapp2.0\win-x64\iKCoderSDK.AssemblyInfo.cs
+C:\iKCoder\iKCoder.CoreSDK\obj\Release\netcoreapp2.0\win-x64\iKCoderSDK.dll
+C:\iKCoder\iKCoder.CoreSDK\obj\Release\netcoreapp2.0\win-x64\iKCoderSDK.pdb
+C:\iKCoder\iKCoder.CoreSDK\obj\Release\netcoreapp2.0\win-x64\iKCoderSDK.csprojAssemblyReference.cache
